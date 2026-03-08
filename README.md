@@ -1,0 +1,2 @@
+# Healthcare-Data-Analytics-Using-Snowflake-ETL-and-Panic-Attack-Dataset
+This project demonstrates an ETL (Extract, Transform, Load) pipeline built using Snowflake to process and analyze data from a CSV file containing information related to panic attacks. The goal of the project is to transform raw dataset records into a structured and analysis-ready format using Snowflake’s cloud data warehousing capabilities.
