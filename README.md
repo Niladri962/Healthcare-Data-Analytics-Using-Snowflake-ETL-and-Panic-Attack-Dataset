@@ -1,4 +1,4 @@
-##**Snowflake ETL Pipeline for Panic Attack Dataset**##
+## **<h1 align="center">Snowflake ETL Pipeline for Panic Attack Dataset</h1>**
 
 This project demonstrates an end-to-end ETL pipeline built using Snowflake to process and analyze a panic attack dataset stored in a CSV file. The pipeline ingests raw data, performs transformations, and loads the cleaned dataset into Snowflake tables for further analysis and reporting.
 
