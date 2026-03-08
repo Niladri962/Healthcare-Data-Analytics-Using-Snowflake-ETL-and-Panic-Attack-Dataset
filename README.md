@@ -8,6 +8,7 @@ Project Overview
 The dataset contains information related to panic attacks including demographic details, health indicators, lifestyle habits, and symptoms. Using Snowflake, the project implements a scalable ETL workflow to transform raw CSV data into a structured format suitable for analytics.
 
 
+
 Dataset
 
 The dataset includes attributes such as:
@@ -34,6 +35,7 @@ The dataset includes attributes such as:
 
 
 
+
 ETL Workflow
 
   1. Extract
@@ -56,6 +58,7 @@ ETL Workflow
 
      b) Enable querying and analytics using Snowflake SQL
 
+
      
 
 Technologies Used
@@ -67,6 +70,8 @@ Technologies Used
   3. CSV Dataset – Source data
 
   4. GitHub – Version control and project documentation
+
+
 
 
 
