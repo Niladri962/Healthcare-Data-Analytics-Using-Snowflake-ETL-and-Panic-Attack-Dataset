@@ -34,6 +34,7 @@ The dataset includes attributes such as:
   10. Panic score
 
 
+Snowflake - https://www.snowflake.com/en/
 
 
 ETL Workflow
@@ -59,7 +60,14 @@ ETL Workflow
      b) Enable querying and analytics using Snowflake SQL
 
 
+     ![1](https://github.com/user-attachments/assets/02013709-5768-4e69-aa01-8a2396a69670)
      
+     ![2](https://github.com/user-attachments/assets/bacc6a0f-9d0c-47f1-8516-c30c59d24e19)
+     
+     ![3](https://github.com/user-attachments/assets/c2e8a6bf-f79f-40a1-bc17-76220426601e)
+     
+     ![4](https://github.com/user-attachments/assets/47af4aa8-e3c1-40e6-90cc-d9bf7630c209)
+
 
 Technologies Used
 
